@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Factorial {
 public static void main (String [] args) {
+	//TODO: Format code
 	int i,a,factorial=1;
 	System.out.println("enter the number :");
 	Scanner num= new Scanner(System.in);
